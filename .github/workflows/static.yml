@@ -41,7 +41,7 @@ jobs:
         run: flutter pub get
         
       - name: Build Web App
-        run: flutter build web
+        run: flutter build web --base-href=/animated_qrcode_sample/
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
