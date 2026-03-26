@@ -1,11 +1,11 @@
 {
-    "name": "animated_qrcode_sample",
-    "short_name": "animated_qrcode_sample",
+    "name": "Animated QR Code Generator",
+    "short_name": "QR Generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Create stunning, dynamic, and colorful animated QR codes easily.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
